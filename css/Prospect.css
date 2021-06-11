@@ -1,0 +1,716 @@
+@media (min-width: 1281px) {
+#Web_1920__1
+{
+zoom:74%
+}
+}
+@media (min-width: 1025px) and (max-width: 1280px) {
+#Web_1920__1
+{
+zoom:66%
+}
+}
+.locationdetails
+{
+position: relative;
+    top: -40px;
+}
+.v1
+{
+width: 13px;
+    height: 43px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    position: relative;
+    left: -35px;
+    bottom: 0px;
+}
+.best {
+  overflow-y: scroll; /* Add the ability to scroll */
+  overflow-x: scroll;
+}
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Web_1920__1_Class {
+	position: absolute;
+	width: 1920px;
+	height: 2148px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Rectangle_424_Class {
+	fill: rgba(56,169,187,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_424 {
+	position: absolute;
+	overflow: visible;
+	width: 1921px;
+	height: 105px;
+	left: -2px;
+	top: 1684px;
+}
+.HOME_PAGE_bANNER_Class {
+	opacity: 1;
+	position: absolute;
+	width: 1920px;
+	height: 296px;
+	left: 0px;
+	top: 219px;
+	overflow: visible;
+}
+.Rectangle_401_Class {
+	fill: rgba(246,246,246,1);
+}
+.Rectangle_401 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1939px;
+	height: 393px;
+	left: -1px;
+	top: 791px;
+}
+.Rectangle_400_Class {
+	fill: rgba(56,169,187,1);
+}
+.Rectangle_400 {
+	position: absolute;
+	overflow: visible;
+	width: 1921px;
+	height: 126px;
+	left: -2px;
+	top: 2024px;
+}
+.Rectangle_394_Class {
+	fill: rgba(56,169,187,1);
+}
+.Rectangle_394 {
+	position: absolute;
+	overflow: visible;
+	width: 620px;
+	height: 62px;
+	left: 1152px;
+	top: 35px;
+}
+.File_No_1_PMI_LOGO__600X400_Class {
+	position: absolute;
+	width: 246px;
+	height: 164px;
+	left: 27px;
+	top: 18px;
+	overflow: visible;
+}
+.Premium_and_affordable_Diagnos_Class {
+left: 724px;
+	top: 273px;
+	position: absolute;
+	overflow: visible;
+	width: 1126px;
+	white-space: nowrap;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+    letter-spacing: NaNpx;
+  color: #38A9BB;
+ opacity: 1;
+}
+.Rectangle_2_Class {
+	fill: rgba(56,169,187,1);
+}
+.Rectangle_2 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 326px;
+	height: 87px;
+	left: 724px;
+	top: 382px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: services_obstetrics;
+	cursor: pointer;
+}
+.Our_services_Class {
+	left: 806px;
+	top: 402px;
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+.ABOUT_US_Prospect_Medical_Imag_Class {
+	left: 294px;
+	top: 559px;
+	position: absolute;
+	overflow: hidden;
+	width: 1478px;
+	height: 582px;
+	line-height: 40px;
+	margin-top: -8px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(56,169,187,1);
+}
+.Repeat_Grid_1_Class {
+	position: absolute;
+    width: 655px;
+    height: 29px;
+    left: 1117px;
+    top: 153px;
+    overflow: hidden;
+}
+.Repeat_Grid_1_0_Class {
+	position: absolute;
+	width: 240px;
+	height: 29px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Services_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 241px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(56,169,187,1);
+}
+.Repeat_Grid_1_1_Class {
+	position: absolute;
+	width: 240px;
+	height: 29px;
+	left: 260px;
+	top: 0px;
+	overflow: visible;
+}
+.About_us_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 241px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(56,169,187,1);
+}
+.Repeat_Grid_1_2_Class {
+	position: absolute;
+	width: 240px;
+	height: 29px;
+	left: 520px;
+	top: 0px;
+	overflow: visible;
+}
+.Contact_us_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 241px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(56,169,187,1);
+}
+.To_book_an_appointment_call_us_Class {
+	left: 1177px;
+	top: 52px;
+	position: absolute;
+	overflow: visible;
+	width: 656px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+.At_Prospect_Ultrasound_Service_Class {
+	left: 295px;
+	top: 1235px;
+	position: absolute;
+	overflow: visible;
+	width: 757px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(56,169,187,1);
+}
+.Rectangle_395_Class {
+	fill: rgba(56,169,187,1);
+}
+.Rectangle_395 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	height: 104px;
+	left: 268px;
+	top: 1228px;
+}
+.Rectangle_396_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(56,169,187,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_396 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 218px;
+	left: 271px;
+	top: 1375px;
+}
+.Rectangle_396_ba_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(56,169,187,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_396_ba {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 218px;
+	left: 507px;
+	top: 1380px;
+}
+.Rectangle_396_bb_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(56,169,187,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_396_bb {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 218px;
+	left: 743px;
+	top: 1384px;
+}
+.Rectangle_396_bc_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(56,169,187,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_396_bc {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 218px;
+	left: 1213px;
+	top: 1381px;
+}
+.Rectangle_396_bd_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(56,169,187,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_396_bd {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 218px;
+	left: 1449px;
+	top: 1380px;
+}
+.Obstetrics__Ultrasound_Class {
+	left: 235px;
+	top: 1512px;
+	position: absolute;
+	overflow: visible;
+	width: 273px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: services_obstetrics;
+	cursor: pointer;
+	text-align: center;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(56,169,187,1);
+}
+.General_Abdominal_Ultrasound_Class {
+	left: 507px;
+	top: 1514px;
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: services_generalabdominal;
+	cursor: pointer;
+	text-align: center;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(56,169,187,1);
+}
+.Renal_KUB_and__Prostate_Ultras_Class {
+	left: 743px;
+	top: 1514px;
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: services_renalprostate;
+	cursor: pointer;
+	text-align: center;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(56,169,187,1);
+}
+.Pelvic_Ultrasound_Class {
+	left: 1180px;
+	top: 1518px;
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: services_pelvic;
+	cursor: pointer;
+	text-align: center;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(56,169,187,1);
+}
+.Vascular_and__Musculoskeletal__Class {
+	left: 1413px;
+	top: 1499px;
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: services_vascular;
+	cursor: pointer;
+	text-align: center;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(56,169,187,1);
+}
+.iconfinder_uterus-womb-organ-f_Class {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 1263px;
+	top: 1393px;
+	overflow: visible;
+}
+.iconfinder_stomach-gaster-abdo_Class {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 557px;
+	top: 1392px;
+	overflow: visible;
+}
+.iconfinder_kidneys-nephron-uri_Class {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 795px;
+	top: 1394px;
+	overflow: visible;
+}
+.iconfinder_blood-cell-red-eryt_Class {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 1499px;
+	top: 1392px;
+	overflow: visible;
+}
+.Homepage_icon-01_Class {
+	position: absolute;
+	width: 322px;
+	height: 322px;
+	left: 219px;
+	top: 201px;
+	overflow: visible;
+}
+.Our_Location_Class {
+	left: 301px;
+	top: 1716px;
+	position: absolute;
+	overflow: visible;
+	width: 1499px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(255,255,255,1);
+}
+.Rectangle_397_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_397 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	height: 61px;
+	left: 268px;
+	top: 1716px;
+}
+.Location_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    width: 1943px;
+    height: 285.5px;
+    left: -13px;
+    top: 1787px;
+    overflow: visible;
+}
+.Rectangle_399_Class {
+	filter: blur(0px);
+	fill: rgba(56,169,187,1);
+}
+.Rectangle_399 {
+	position: relative;
+    overflow: visible;
+    width: 513px;
+    height: 169px;
+    left: 1217px;
+    top: 1841px;
+    border-radius: 48px;
+    background: #38A9BB 0% 0% no-repeat padding-box;
+    opacity: 1;
+    backdrop-filter: blur(16px);
+    filter: blur(0px);
+}
+.ID31_Blytheswood_Ave_Byford_WA_Class {
+	left: 1236px;
+    top: 1871px;
+    position: absolute;
+    overflow: visible;
+    width: 495px;
+    height: 151px;
+    line-height: 40px;
+    margin-top: -8px;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(255,255,255,1);
+    opacity: 1;
+}
+.iconfinder_house-home-main-men_Class {
+	position: absolute;
+	width: 34px;
+	height: 34px;
+	left: 926px;
+	top: 149px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index;
+	cursor: pointer;
+}
+._Prospect_Medical_Imaging_2021_Class {
+	left: 267px;
+	top: 2099px;
+	position: absolute;
+	overflow: visible;
+	width: 1151px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: privacypolicy;
+	cursor: pointer;
+	line-height: 40px;
+	margin-top: -10px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+.iconfinder_N_T_1310Artboard_1__Class {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 321px;
+	top: 1405px;
+	overflow: visible;
+}
+.Rectangle_426_Class {
+	fill: rgba(56,169,187,1);
+}
+.Rectangle_426 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 180px;
+	height: 87px;
+	left: 294px;
+	top: 697px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: aboutus;
+	cursor: pointer;
+}
+.More_Class {
+	left: 335px;
+	top: 717px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+.Rectangle_427_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(56,169,187,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_427 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 218px;
+	left: 981px;
+	top: 1384px;
+}
+.Small_Parts_Ultrasound__Class {
+	left: 981px;
+	top: 1514px;
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: services_smallparts;
+	cursor: pointer;
+	text-align: center;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(56,169,187,1);
+}
+.thyroid_Class {
+	position: absolute;
+	width: 109px;
+	height: 109px;
+	left: 1027px;
+	top: 1385px;
+	overflow: visible;
+}
